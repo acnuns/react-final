@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import Weather from "./Weather"
 import './App.css';
 
@@ -9,7 +8,7 @@ function App() {
       <Weather defaultCity="Chicago" />
       <footer>
         This project was coded by 
-        <a href="https://github.com/acnuns/react-final" target="_blank"> Amanda Nunley</a>
+        <a href="https://github.com/acnuns/react-final" target="_blank" rel="noreferrer"> Amanda Nunley</a>
       </footer>    
       </div>
     </div>
